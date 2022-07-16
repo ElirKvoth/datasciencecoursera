@@ -1,5 +1,5 @@
 # datasciencecoursera
-course project repository: The Data Scientist’s Toolbox
+repo project repository: The Data Scientist’s Toolbox
 
 By: Johns Hopkins University and Coursera
 
